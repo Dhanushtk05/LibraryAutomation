@@ -1,0 +1,55 @@
+.Librules{
+    position: relative;
+    margin:3% 10%;
+    color: black;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Librules h1{
+    margin-top: 2%;
+    text-transform: uppercase;
+    font-family:'Poppins', sans-serif;
+    font-size: 38px;
+    padding: 1%;
+    color: blue;
+}
+
+
+
+.Librules h2{
+    color: blue;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.Librules ul{
+    margin-right: 4%;
+    position: relative;
+    padding: 2% 5% 5% 5%;
+    left: 2%;
+    background:transparent;
+    color:black;
+}
+
+.Librules ul li{
+    list-style: none;
+    padding: 0.6%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:bold;
+}
+
+@media screen and (max-width:600px) {
+    .Librules h1{
+        font-size: 25px;
+    }
+
+    .Librules h2{
+        font-size: 16px;
+    }
+
+    
+}
