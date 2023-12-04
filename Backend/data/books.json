@@ -1,0 +1,1038 @@
+[
+    {
+        "name":"Introduction to Nanotechnology ",
+        "author":"Charles P. Poole Jr,Frank J. Owens",
+        "noofcopies":1,
+        "publisher":"John Wiley ",
+        "yearofPublish":2006,
+        "category":"NANO TECHNOLOGY"
+    },
+    {
+        "name":"Mathematical and Computational Models",
+        "author":"R. Nadarajan,R.Anitha,C.Porkodi",
+        "noofcopies":1,
+        "publisher":"N.K Mehra",
+        "yearofPublish":2008,
+        "category":"MACHINE LEARNING"
+    },
+    {
+        "name":"Artificial intelligence a modern approach ",
+        "author":"Stuart J. Russell,Peter Norvig",
+        "noofcopies":1,
+        "publisher":"Dorling Kindersley",
+        "yearofPublish":2003,
+        "edition":"Second Edition",
+        "category":"ARTIFICIAL INTELLIGENCE"
+    },
+    {
+        "name":"Digital Image processing ",
+        "author":"Rafael C. Gonzalez,Richard E. Woods",
+        "noofcopies":2,
+        "publisher":"Asoke K. Ghosh",
+        "yearofPublish":2002,
+        "edition":"Second Edition ",
+        "category":"OPERATING SYSTEM"
+    },
+    {
+        "name":"Data Processing ",
+        "author":"C S French",
+        "noofcopies":1,
+        "publisher":"Neeraj Galgotia",
+        "yearofPublish":1986,
+        "edition":"Seventh Edition ",
+        "category":"DATA SCIENCE"
+    },
+    {
+        "name":"Machine Learning ",
+        "author":"Tom M. Mitchell",
+        "noofcopies":1,
+        "yearofPublish":1997,
+        "category":"MACHINE LEARNING"
+    },
+    {
+        "name":"Applied Machine Learning ",
+        "author":"M. Gopal",
+        "noofcopies":1,
+        "publisher":"McGraw Hill Education ",
+        "yearofPublish":2018,
+        "category":"MACHINE LEARNING"
+    },
+    {
+        "name":"Human- Computer Interaction User- Centric Computing for Design",
+        "author":"Samit Bhattacharya",
+        "noofcopies":1,
+        "publisher":"McGraw Hill Education ",
+        "yearofPublish":2020,
+        "category":"ARTIFICIAL INTELLIGENCE"
+    },
+    {
+        "name":"The Indispensable PC Hardware Book",
+        "author":"Hans-Peter Messmer",
+        "noofcopies":1,
+        "yearofPublish":1997,
+        "edition":"Third Edition ",
+        "category":"MICROPROCESSOR"
+    },
+    {
+        "name":"Robotic Engineering An Integrated Approach ",
+        "author":"Richard D. Klafter,Thomas A. Chmielewski,Michael Negin",
+        "noofcopies":1,
+        "publisher":"Asoke K. Ghosh",
+        "yearofPublish":1989,
+        "category":"ARTIFICIAL INTELLIGENCE"
+    },
+    {
+        "name":"Principles of Artificial intelligence ",
+        "author":"Nils J. Nilsson",
+        "noofcopies":1,
+        "publisher":"N.K. Mehra",
+        "yearofPublish":1980,
+        "category":"ARTIFICIAL INTELLIGENCE"
+    },
+    {
+        "name":"Neural Networks,Fuzzy Logic,and Genetic Algorithms Synthesis and Applications ",
+        "author":"S. Rajasekaran,G.A. Vijaylakshmi Pai",
+        "noofcopies":1,
+        "publisher":"Asoke K. Ghosh",
+        "yearofPublish":2003,
+        "category":"NEURAL NETWORKS"
+    },
+    {
+        "name":"Fundamentals of Neural Networks Architectures, Algorithms and Applications ",
+        "author":"Laurene Fausett",
+        "noofcopies":1,
+        "publisher":"Dorling Kindersley ",
+        "yearofPublish":1994,
+        "edition":"Seventh Impression ",
+        "category":"NEURAL NETWORKS"
+    },
+    {
+        "name":"Grid Computing ",
+        "author":"Joshy Joseph,Craig Fellenstein",
+        "noofcopies":1,
+        "publisher":"Dorling Kindersley ",
+        "yearofPublish":2004,
+        "edition":"Fifth Impression ",
+        "category":"COMPUTER GRAPHICS"
+    },
+    {
+        "name":"An Introduction to Genetic Algorithms ",
+        "author":"Melanie Mitchell",
+        "noofcopies":1,
+        "publisher":"Asoke K. Ghosh",
+        "yearofPublish":2002,
+        "category":"MACHINE LEARNING"
+    },
+    {
+        "name":"Compiler design",
+        "author":"Dr.O.G.Kakde",
+        "noofcopies":1,
+        "publisher":"University Science Press",
+        "yearofPublish":2010,
+        "edition":"Fourth Edition",
+        "category":"COMPILER"
+    },
+    {
+        "name":"Principles of compiler design",
+        "author":"V. Raghavan",
+        "noofcopies":1,
+        "publisher":"Tata MCGraw Hill Education",
+        "yearofPublish":2010,
+        "category":"COMPILER"
+    },
+    {
+        "name":"Artificial intelligence",
+        "author":"Elaine Rich  Kevin Knight",
+        "noofcopies":1,
+        "publisher":"Tata MCGraw Hill Education",
+        "yearofPublish":1991,
+        "edition":"Second Edition",
+        "category":"ARTIFICIAL INTELLIGENCE"
+    },
+    {
+        "name":"Artificial intelligence",
+        "author":"Elaine Rich  Kevin Knight",
+        "noofcopies":2,
+        "publisher":"Tata MCGraw Hill Education",
+        "yearofPublish":1991,
+        "edition":"Second Edition",
+        "category":"ARTIFICIAL INTELLIGENCE"
+    },
+    {
+        "name":"Artificial intelligence",
+        "author":"Anamitra Deshmukh - Nimbalkar",
+        "noofcopies":1,
+        "publisher":"Technical publications",
+        "yearofPublish":2012,
+        "edition":"First Edition",
+        "category":"ARTIFICIAL INTELLIGENCE"
+    },
+    {
+        "name":"Computer Graphics",
+        "author":"Donald Hearn M.Paulin Baker",
+        "noofcopies":1,
+        "publisher":"Asoke K. Ghosh",
+        "yearofPublish":1999,
+        "edition":"Second Edition",
+        "category":"COMPUTER GRAPHICS"
+    },
+    {
+        "name":"Virtual Reality Systems",
+        "author":"John Vince",
+        "noofcopies":1,
+        "publisher":"Dorling Kindersley ",
+        "yearofPublish":1995,
+        "category":"COMPUTER GRAPHICS"
+    },
+    {
+        "name":"Introduction to graph theory",
+        "author":"Robin J.Wilson",
+        "noofcopies":1,
+        "publisher":"Dorling Kindersley ",
+        "yearofPublish":1996,
+        "edition":"Fourth Edition",
+        "category":"COMPUTER GRAPHICS"
+    },
+    {
+        "name":"Neuro-Fuzzy and soft computing",
+        "author":"Jyh-Shing Roger Jang , Chuen-Tsai Sun , Eiji Mizutani",
+        "noofcopies":1,
+        "publisher":"Asoke K. Ghosh",
+        "yearofPublish":2011,
+        "category":"NEURAL NETWORKS"
+    },
+    {
+        "name":"Knowledge based neuro computing",
+        "author":"Ian Cloete , Jacek M Zurada",
+        "noofcopies":1,
+        "publisher":"University Press",
+        "yearofPublish":2002,
+        "category":"NEURAL NETWORKS"
+    },
+    {
+        "name":"Neural Networks and Fuzzy Logic",
+        "author":"DR.R.P.Das , L.Sreedhar",
+        "noofcopies":1,
+        "publisher":"S.K.Kataria & Sons",
+        "yearofPublish":2012,
+        "edition":"First Edition",
+        "category":"NEURAL NETWORKS"
+    },
+    {
+        "name":"Prolog programming for artificial intelligence",
+        "author":"Ivan Bratko",
+        "noofcopies":1,
+        "publisher":"Addison-Wesley publishing company",
+        "yearofPublish":1986,
+        "category":"ARTIFICIAL INTELLIGENCE"
+    },
+    {
+        "name":"Artificial Intelligence and computer games",
+        "author":"CTURE",
+        "noofcopies":1,
+        "publisher":"B.P.B Publitions",
+        "yearofPublish":1985,
+        "category":"ARTIFICIAL INTELLIGENCE"
+    },
+    {
+        "name":"An engineering approach to computer networking",
+        "author":"S.KESHAV",
+        "noofcopies":1,
+        "publisher":"ADDISON WELSEY LONGMAN",
+        "yearofPublish":1997,
+        "category":"COMPUTER NETWORKS"
+    },
+    {
+        "name":"DATA COMMUNICATIONS,COMPUTER NETWORKS & OPEN SYSTEMS",
+        "author":"FRED HALSALL",
+        "noofcopies":1,
+        "publisher":"ADDISON WELSEY LONGMAN",
+        "yearofPublish":1996,
+        "edition":"FOURTH EDITION",
+        "category":"COMPUTER NETWORKS"
+    },
+    {
+        "name":"COMPUTER NETWORKS AND INTERNETS",
+        "author":"DOUGLAS E.COMER",
+        "noofcopies":1,
+        "publisher":"ADDISON WELSEY LONGMAN",
+        "yearofPublish":2000,
+        "edition":"SECOND EDITION",
+        "category":"COMPUTER NETWORKS"
+    },
+    {
+        "name":"NETWORKS FOR COMPUTER SCIENTISTS AND ENGINEERS",
+        "author":"YOULU ZHENG,SHAKIL AKHTAR",
+        "noofcopies":2,
+        "publisher":"OXFORD UNIVERSITY PRESS",
+        "yearofPublish":2002,
+        "category":"COMPUTER NETWORKS"
+    },
+    {
+        "name":"HIGH PERFORMANCE TCP/IP NETWORKING",
+        "author":"MAHBUB HASSAN,RAJ JAIN",
+        "noofcopies":1,
+        "publisher":"PEARSON EDUCATION",
+        "yearofPublish":2004,
+        "category":"COMPUTER NETWORKS"
+    },
+    {
+        "name":"SNMP,SNMPv2,SNMPv3 AND RMON 1 & 2",
+        "author":"WILLIAM STALLINGS",
+        "noofcopies":1,
+        "publisher":"PEARSON EDUCATION",
+        "yearofPublish":1999,
+        "edition":"Third Edition ",
+        "category":"COMPUTER NETWORKS"
+    },
+    {
+        "name":"AD HOC WIRELESS NETWORKS (ARCHITECTURES & PROTOCOLS)",
+        "author":"C.SIVA RAM MURTHY,B.S.MANOJ",
+        "noofcopies":1,
+        "publisher":"Dorling Kindersley ",
+        "yearofPublish":2004,
+        "edition":"17TH IMPRESSION (2012)",
+        "category":"COMPUTER NETWORKS"
+    },
+    {
+        "name":"TCP/IP ILLUSTRATED,VOLUME 1 [THE PROTOCOLS]",
+        "author":"W.RICHARD STEVENS",
+        "noofcopies":1,
+        "publisher":"ADDISON WELSEY LONGMAN",
+        "yearofPublish":1994,
+        "category":"COMPUTER NETWORKS"
+    },
+    {
+        "name":"LOCAL AREA NETWORKS",
+        "author":"GERD E.KEISER",
+        "noofcopies":1,
+        "publisher":"MCGraw Hill Education",
+        "yearofPublish":1989,
+        "category":"COMPUTER NETWORKS"
+    },
+    {
+        "name":"COMMUNICATION NETWORKS (FUNDAMENTAL CONCEPTS AND KEY ARCHITECTURES)",
+        "author":"ALBERTO LEON GARCIA,INDRA WIDJAJA",
+        "noofcopies":1,
+        "publisher":"Tata MCGraw Hill Education",
+        "yearofPublish":2000,
+        "edition":"SECOND EDITION",
+        "category":"COMPUTER NETWORKS"
+    },
+    {
+        "name":"INTERNETWORKING WITH TCP/IP PRINCIPLES PROTOCOLS AND ARCHITECTURE(VOLUME 1)",
+        "author":"DOUGLAS E.COMER",
+        "noofcopies":1,
+        "publisher":"Dorling Kindersley ",
+        "yearofPublish":2006,
+        "edition":"FIFTH EDITION",
+        "category":"COMPUTER NETWORKS"
+    },
+    {
+        "name":"ELEMENTS OF DATA COMMUNICATIONS AND NETWORKS",
+        "author":"S.A.AMUTHA JEEVAKUMARI",
+        "noofcopies":1,
+        "publisher":"UNIVERSITY SCIENCE PRESS",
+        "yearofPublish":2009,
+        "category":"COMPUTER NETWORKS"
+    },
+    {
+        "name":"COMPUTER NETWORKS (A SYSTEMS APPROACH)",
+        "author":"LARRY L.PETERSON and BRUCE S.DAVIE",
+        "noofcopies":1,
+        "publisher":"ELSEVIER",
+        "yearofPublish":2003,
+        "edition":"Third Edition ",
+        "category":"COMPUTER NETWORKS"
+    },
+    {
+        "name":"COMPUTER NETWORKS (A SYSTEMS APPROACH)",
+        "author":"LARRY L.PETERSON and BRUCE S.DAVIE",
+        "noofcopies":2,
+        "publisher":"HARCOURT PUBLISHERS",
+        "yearofPublish":2000,
+        "edition":"SECOND EDITION",
+        "category":"COMPUTER NETWORKS"
+    },
+    {
+        "name":"COMPUTER NETWORKS",
+        "author":"ANDREW S.TANENBAUM,DAVID J.WETHERALL",
+        "noofcopies":2,
+        "publisher":"Dorling Kindersley ",
+        "yearofPublish":2014,
+        "edition":"FIFTH EDITION",
+        "category":"COMPUTER NETWORKS"
+    },
+    {
+        "name":"INTERNETWORKING WITH TCP/IP DESIGN IMPLEMENTATION AND INTERNALS (VOLUME 2)",
+        "author":"DOUGLAS E.COMER,DAVID L.STEVENS",
+        "noofcopies":1,
+        "publisher":"PEARSON EDUCATION",
+        "yearofPublish":1995,
+        "edition":"Third Edition ",
+        "category":"COMPUTER NETWORKS"
+    },
+    {
+        "name":"CORPORATE COMPUTER AND NETWORK SECURITY",
+        "author":"RAYMOND R.PANKO",
+        "noofcopies":1,
+        "publisher":"PEARSON EDUCATION",
+        "yearofPublish":2003,
+        "category":"COMPUTER NETWORKS"
+    },
+    {
+        "name":"HIGH SPEED NETWORKS",
+        "author":"SUDHA SOMASUNDARAM",
+        "noofcopies":1,
+        "publisher":"M.R.BARATHI(CHARULATHA PUBLICATIONS)",
+        "yearofPublish":2008,
+        "edition":"FIRST EDITION",
+        "category":"COMPUTER NETWORKS"
+    },
+    {
+        "name":"RICH CLIENT PROGRAMMING",
+        "author":"TIM BOUDREAU,JAROSLAV TULACH,GEERTJAN WIELENGA",
+        "noofcopies":1,
+        "publisher":"Dorling Kindersley ",
+        "yearofPublish":2007,
+        "category":"COMPUTER NETWORKS"
+    },
+    {
+        "name":"INTRODUCTION TO DATA COMMUNICATIONS AND NETWORKING",
+        "author":"BEHROUZ FOROUZAN",
+        "noofcopies":1,
+        "publisher":"MCGraw Hill Education",
+        "yearofPublish":1998,
+        "category":"COMPUTER NETWORKS"
+    },
+    {
+        "name":"NETWORK ANALYSIS,ARCHITECTURE AND DESIGN",
+        "author":"JAMES D.MCCABE",
+        "noofcopies":1,
+        "publisher":"ELSEVIER",
+        "yearofPublish":2003,
+        "edition":"SECOND EDITION",
+        "category":"COMPUTER NETWORKS"
+    },
+    {
+        "name":"FUNDAMENTALS OF NETWORK SECURITY",
+        "author":"ERIC MAIWALD",
+        "noofcopies":1,
+        "publisher":"Tata MCGraw Hill Education",
+        "yearofPublish":2004,
+        "category":"COMPUTER NETWORKS"
+    },
+    {
+        "name":"COMPUTER NETWORKING WITH INTERNET PROTOCOLS AND TECHNOLOGY",
+        "author":"WILLIAM STALLINGS",
+        "noofcopies":1,
+        "publisher":"Dorling Kindersley ",
+        "yearofPublish":2004,
+        "edition":"SECOND IMPRESSION 2008",
+        "category":"COMPUTER NETWORKS"
+    },
+    {
+        "name":"THE WIRELESS APPLICATION PROTOCOL WRITING APPLICATIONS FOR THE MOBILE INTERNET",
+        "author":"SANDEEP SINGHAL,THOMAS BRIDGMAN,LALITHA SURYANARAYANA,DANIEL MAUNEY,JARI ALVINEN,DAVID BEVIS,JIM CHAN,STEFAN HILD",
+        "noofcopies":1,
+        "publisher":"ADDISON WELSEY LONGMAN",
+        "yearofPublish":2001,
+        "category":"COMPUTER NETWORKS"
+    },
+    {
+        "name":"COMPUTER ARCHITECTURE AND PARALLEL PROCESSING",
+        "author":"KAI HWANG, FAYE A.BRIGGS",
+        "noofcopies":1,
+        "publisher":"MCGraw Hill Education",
+        "yearofPublish":1984,
+        "category":"COMPUTER ARCHITECTURE"
+    },
+    {
+        "name":"ADVANCED MICROPROCESSORS",
+        "author":"DANIEL TABAK",
+        "noofcopies":1,
+        "publisher":"MCGraw Hill Education",
+        "yearofPublish":1995,
+        "edition":"SECOND EDITION",
+        "category":"COMPUTER ARCHITECTURE"
+    },
+    {
+        "name":"SERVICE-ORIENTED ARCHITECTURE (CONCEPTS,TECHNOLOGY,AND DESIGN)",
+        "author":"THOMAS ERL",
+        "noofcopies":1,
+        "publisher":"Dorling Kindersley ",
+        "yearofPublish":2011,
+        "category":"COMPUTER ARCHITECTURE"
+    },
+    {
+        "name":"SERVICE-ORIENTED ARCHITECTURE (A FIELD GUIDE TO INTEGRATING XML AND WEB SERVICES)",
+        "author":"THOMAS ERL",
+        "noofcopies":1,
+        "publisher":"PEARSON EDUCATION",
+        "yearofPublish":2004,
+        "category":"COMPUTER ARCHITECTURE"
+    },
+    {
+        "name":"DIGITAL PRINCIPLES & SYSTEM DESIGN",
+        "author":"ATUL P. GODSE , MRS.DEEPALI A. GODSE",
+        "noofcopies":1,
+        "publisher":"TECHNICAL PUBLICATIONS PUNE",
+        "yearofPublish":2005,
+        "category":"DIGITAL DESIGN"
+    },
+    {
+        "name":"COMPUTER ORGANIZATION",
+        "author":"CARL HAMACHER , ZVONKO VRANESIC , SAFWAT ZAKY",
+        "noofcopies":1,
+        "publisher":"MCGraw Hill Education",
+        "yearofPublish":2002,
+        "edition":"FIFTH EDITION",
+        "category":"COMPUTER ARCHITECTURE"
+    },
+    {
+        "name":"DIGITAL SIGNAL PROCESSING(PRINCIPLES,ALGORITHMS AND APPLICATIONS)",
+        "author":"JOHN G. PROAKIS , DIMITRIS G. MANOLAKIS",
+        "noofcopies":1,
+        "publisher":"Asoke K. Ghosh",
+        "yearofPublish":1996,
+        "edition":"Third Edition ",
+        "category":"OPERATING SYSTEM"
+    },
+    {
+        "name":"DIGITAL SIGNAL PROCESSING",
+        "author":"DR. J. S. CHITODE",
+        "noofcopies":1,
+        "publisher":"TECHNICAL PUBLICATIONS",
+        "yearofPublish":2011,
+        "category":"OPERATING SYSTEM"
+    },
+    {
+        "name":"DIGITAL DESIGN PRINCIPLES AND PRACTICES",
+        "author":"JOHN F. WAKERLY",
+        "noofcopies":1,
+        "publisher":"Asoke K. Ghosh",
+        "yearofPublish":2006,
+        "edition":"FOURTH EDITION",
+        "category":"DIGITAL DESIGN"
+    },
+    {
+        "name":"DIGITAL SIGNAL PROCESSING",
+        "author":"J. S.  CHITODE",
+        "noofcopies":1,
+        "publisher":"TECHNICAL PUBLICATIONS PUNE",
+        "yearofPublish":2004,
+        "edition":"OPERATING SYSTEM",
+        "category":""
+    },{
+        "name":"MICROPROCESSORS & MICROCONTROLLERS",
+        "author":"ATUL P. GODSE , MRS.DEEPALI A. GODSE",
+        "noofcopies":1,
+        "publisher":"TECHNICAL PUBLICATIONS",
+        "yearofPublish":2010,
+        "category":"COMPUTER ARCHITECTURE"
+    },{
+        "name":"DIGITAL SIGNAL PROCESSING",
+        "author":"S SALIVAHANAN , A VALLAVARAJ , C GNANAPRIYA",
+        "noofcopies":1,
+        "publisher":"Tata MCGraw Hill Education",
+        "yearofPublish":2000,
+        "category":"DIGITAL SIGNAL PROCESSING"
+    },{
+        "name":"MICROPROCESSORS & MICROCONTROLLERS",
+        "author":"ATUL P. GODSE , MRS.DEEPALI A. GODSE",
+        "noofcopies":1,
+        "publisher":"TECHNICAL PUBLICATIONS",
+        "yearofPublish":2019,
+        "category":"COMPUTER ARCHITECTURE"
+    },{
+        "name":"COMPUTER ARCHITECTURE AND LOGIC DESIGN",
+        "author":"THOMAS C. BARTEE",
+        "noofcopies":2,
+        "publisher":"MCGraw Hill Education",
+        "yearofPublish":1991,
+        "category":"COMPUTER ARCHITECTURE"
+    },{
+        "name":"COMPUTER ARCHITECTURE A QUANTITATIVE APPROACH",
+        "author":"JOHN L HENNESSY , DAVID A PATTERSON",
+        "noofcopies":1,
+        "publisher":"MORGAN KAUFMANN PUBLISHERS",
+        "yearofPublish":1990,
+        "edition":"SECOND EDITION",
+        "category":"COMPUTER ARCHITECTURE"
+    },{
+        "name":"COMPUTER ARCHITECTURE AND SYSTEMS DESIGN",
+        "author":"J. VAIDEESWARAN",
+        "noofcopies":1,
+        "publisher":"NEW AGE INTERNATIONAL(P) LIMITED",
+        "yearofPublish":1999,
+        "category":"COMPUTER ARCHITECTURE"
+    },{
+        "name":"COMPUTER SYSTEMS DESIGN AND ARCHITECTURE",
+        "author":"VINCENT P. HEURING , HARRY F. JORDAN",
+        "noofcopies":1,
+        "publisher":"ADDISON WELSEY LONGMAN",
+        "yearofPublish":1999,
+        "category":"COMPUTER ARCHITECTURE"
+    },{
+        "name":"ADVANCED COMPUTER ARCHITECTURE (PARALLELISM , SCALABILITY , PROGRAMMABILITY)",
+        "author":"KAI HWANG , NARESH JOTWANI",
+        "noofcopies":1,
+        "publisher":"Tata MCGraw Hill Education",
+        "yearofPublish":2011,
+        "edition":"SECOND EDITION",
+        "category":"COMPUTER ARCHITECTURE"
+    },{
+        "name":"COMPUTER SYSTEM ORGANISATION",
+        "author":"DR NARESH JOTWANI",
+        "noofcopies":1,
+        "publisher":"Tata MCGraw Hill Education",
+        "yearofPublish":2009,
+        "category":"COMPUTER ARCHITECTURE"
+    },{
+        "name":"THE 8088 AND 8086 MICROPROCESSORS (PROGRAMMING , INTERFACING , SOFTWARE , HARDWARE ,APPLICATIONS)",
+        "author":"WALTER A. TRIEBEL , AVTAR SINGH",
+        "noofcopies":1,
+        "publisher":"PRENTICE-HALL OF INDIA PVT LIMITED",
+        "yearofPublish":1991,
+        "category":"COMPUTER ARCHITECTURE"
+    },{
+        "name":"MICROPROCESSOR & APPLICATIONS",
+        "author":"ATUL P. GODSE , MRS.DEEPALI A. GODSE",
+        "noofcopies":1,
+        "publisher":"TECHNICAL PUBLICATIONS",
+        "yearofPublish":2010,
+        "category":"COMPUTER ARCHITECTURE"
+    },{
+        "name":"Digital Image processing ",
+        "author":"S JAYARAMAN , S ESAKKIRAJAN , T VEERAKUMAR",
+        "noofcopies":1,
+        "publisher":"Tata MCGraw Hill Education",
+        "yearofPublish":2009,
+        "category":"OPERATING SYSTEM"
+    },{
+        "name":"MODERN CRYPTOGRAPHY (THEORY & PRACTICE)",
+        "author":"WENBO MAO",
+        "noofcopies":1,
+        "publisher":"PEARSON EDUCATION",
+        "yearofPublish":2004,
+        "category":"DATA MINING AND DATA WAREHOUUSING"
+    },{
+        "name":"ASSEMBLY LANGUAGE FOR INTEL-BASED COMPUTER",
+        "author":"KIP R. IRVINE",
+        "noofcopies":1,
+        "publisher":"PEARSON EDUCATION",
+        "yearofPublish":2004,
+        "edition":"FOURTH EDITION",
+        "category":"PROGRAMMING & GENERAL"
+    },{
+        "name":"MICROPROCESSOR ARCHITECTURE, PROGRAMMING AND APPLICATIONS WITH THE 8085",
+        "author":"RAMESH GAONKAR",
+        "noofcopies":1,
+        "publisher":"PRENTICE-HALL OF INDIA PVT LIMITED",
+        "yearofPublish":2007,
+        "edition":"FIFTH EDITION",
+        "category":"COMPUTER ARCHITECTURE"
+    },{
+        "name":"DISTRIBUTED COMPONENT ARCHITECTURE",
+        "author":"G. SUDHA SADASIVAM",
+        "noofcopies":1,
+        "publisher":"WILEY-INDIA",
+        "yearofPublish":2008,
+        "category":"COMPUTER ARCHITECTURE"
+    },{
+        "name":"MICROPROCESSORS & MICROCONTROLLERS",
+        "author":"ATUL P. GODSE , MRS.DEEPALI A. GODSE",
+        "noofcopies":1,
+        "publisher":"TECHNICAL PUBLICATIONS PUNE",
+        "yearofPublish":2006,
+        "category":"COMPUTER ARCHITECTURE"
+    },{
+        "name":"DATA WAREHOUSING IN THE REAL WORLD",
+        "author":"SAM ANAHORY , DENNIS MURRAY",
+        "noofcopies":1,
+        "publisher":"PEARSON EDUCATION",
+        "yearofPublish":1997,
+        "category":"DATA WAREHOUSING"
+    },{
+        "name":"MODERN DATA WAREHOUSING,MINING AND VISUALIZATION CORE CONCEPTS",
+        "author":"GEORGE M. MARAKAS",
+        "noofcopies":1,
+        "publisher":"PEARSON EDUCATION",
+        "yearofPublish":2007,
+        "category":"DATA WAREHOUSING"
+    },{
+        "name":"DATA WAREHOUSING FUNDAMENTALS THE COMPREHENSIVE GUIDE FOR IT PROFFESSIONALS",
+        "author":"PAULRAJ PONNIAH",
+        "noofcopies":1,
+        "publisher":"JOHN WILey AND SONS",
+        "yearofPublish":2008,
+        "category":"DATA WAREHOUSING"
+    },{
+        "name":"PRINCIPLES OF DATA MINING",
+        "author":"MAX BRAMER",
+        "noofcopies":1,
+        "publisher":"SPRING INDIA PVT LIMITED",
+        "yearofPublish":2009,
+        "category":"DATA MINING"
+    },{
+        "name":"DATA MINING INTRODUCTORY AND ADVANCED TOPICS",
+        "author":"MARGARET H . DUNHAN",
+        "noofcopies":1,
+        "publisher":"PEARSON EDUCATION",
+        "yearofPublish":2006,
+        "category":"DATA MINING"
+    },{
+        "name":"DATA MINING",
+        "author":"PIETER ADRIAANS , DOLF ZANTING",
+        "noofcopies":1,
+        "publisher":"THOMSON PRESS",
+        "yearofPublish":1999,
+        "category":"DATA MINING"
+    },{
+        "name":"INSIGHT INTO DATA MINING THEORY AND PRACTICE ",
+        "author":"K.P. SOMAN , SHYAM DIWUKAR , V. AJAY",
+        "noofcopies":1,
+        "publisher":"Asoke K. Ghosh ",
+        "yearofPublish":2006,
+        "category":"DATA MINING"
+    },{
+        "name":"INTRODUCTION INTO INFORMATION RETRIVEL",
+        "author":"CHRISTOPHER D. MANNING PRABHAKAR RAGHAVAN, HINRICH SCHUTZE",
+        "noofcopies":1,
+        "publisher":"CAMBRIDGE UNIVERSITY",
+        "yearofPublish":2008,
+        "category":"DATA BASE"
+    },{
+        "name":"INTRODUCTION TO BADA A DEVELOPERS GUIDE",
+        "author":"BEN MORRIS , MANFRED BORTENSCHLAGER, JON LANDSELL, CHENG LUO, MICHELLE SOMERVILLE",
+        "noofcopies":1,
+        "publisher":"JOHN WILEY AND SONS",
+        "yearofPublish":2010,
+        "category":"PROGRAMMING & GENERAL"
+    },{
+        "name":"BIOINFORMATICS METHODS AND APPLICATIONNS GENOMICS, PROTOMICS AND DRUG DISCOVERY",
+        "author":"S.C. RASTOGHY , NAMITA MENDIRATTA  PARAG RASTOGHY",
+        "noofcopies":1,
+        "publisher":"ASOKE K. GOSH",
+        "yearofPublish":2006,
+        "edition":"Second Edition ",
+        "category":"BIO INFORMATICS"
+    },{
+        "name":"INTRODUCTION TO BIOINFORMATICS",
+        "author":"ARTHUR M, LESK",
+        "noofcopies":1,
+        "publisher":"OXFORD UNIVERSITY PRESS",
+        "yearofPublish":2008,
+        "edition":"Third Edition ",
+        "category":"BIO INFORMATICS"
+    },{
+        "name":"BIOINFORMATICS SEQUENCE AND GENOME ANALYSIS",
+        "author":"DAVID W. MOUNT",
+        "noofcopies":1,
+        "publisher":"COLD SPRING HARBOR LABORATORY PRESS ",
+        "yearofPublish":2005,
+        "edition":"SECOND EDITION",
+        "category":"BIO INFORMATICS"
+    },{
+        "name":"BIG DATA",
+        "author":"ANIL MAHESWARI",
+        "noofcopies":1,
+        "publisher":"MCGRAW HILL EDUCATION",
+        "edition":"SECOND EDITION",
+        "category":"BIG DATA"
+    },{
+        "name":"ERP DEMYSTIFIED ",
+        "author":"ALEXIS LEON ",
+        "noofcopies":1,
+        "publisher":"Tata MCGraw Hill Education",
+        "yearofPublish":2011,
+        "edition":"SECOND EDITION",
+        "category":"COMPUTER NETWORKS"
+    },{
+        "name":"ERP DEMYSTIFIED ",
+        "author":"ALEXIS LEON ",
+        "noofcopies":1,
+        "publisher":"Tata MCGraw Hill Education",
+        "edition":"2006",
+        "category":"COMPUTER NETWORKS"
+    },{
+        "name":"INTRODUCTION TO PARALLEL COMPUTIONG",
+        "author":"ANANTH GRAMA, ALSHUN GUPPA, GEORGE KARYPIS, VIPIN KUMAR",
+        "noofcopies":1,
+        "publisher":"PEARSON EDUCATION",
+        "yearofPublish":2007,
+        "edition":"SECOND EDITION",
+        "category":"COMPUTING"
+    },{
+        "name":"MOBILE COMPUTING ",
+        "author":"B,S, CHARULATHA",
+        "noofcopies":1,
+        "publisher":"CHARULATHA PUBLICATIONS",
+        "yearofPublish":2008,
+        "category":"COMPUTING"
+    },{
+        "name":"MOBILE COMPUTING  TECHNOLOGY AND APPLICATIONS AND SERVICE CREATION",
+        "author":"ASOKE K. TALUKDER , ROOPA R YAVAGAL",
+        "noofcopies":1,
+        "publisher":"Tata MCGraw Hill Education",
+        "yearofPublish":2008,
+        "category":"COMPUTING"
+    },{
+        "name":"MOBILE COMPUTING PRINCIPLES DESIGNING AND DEVELOPING MOBILE APPLICATION WITH UML AND XML",
+        "author":"REZA B 'FAR",
+        "noofcopies":1,
+        "publisher":"CAMBRIDGE UNIVERSITY",
+        "yearofPublish":2005,
+        "category":"COMPUTING"
+    },{
+        "name":"INTRODUCTIONS TO COMPUTER SYSTEMS FROM BIUTS AND GATES TO C AND BEYOND",
+        "author":"YALE N . PATT , SANJAY J . PATEL",
+        "noofcopies":1,
+        "publisher":"Tata MCGraw Hill Education",
+        "yearofPublish":2001,
+        "category":"COMPUTING"
+    },{
+        "name":"FUNDAMENTALS OF MOBILE AND PERVASIVE COMPUTING",
+        "author":"FRANK ADELSTEIN , SANDEEP K.S. GUPTA, GOLDEN G. RICHARD iii , LOREN SCHWIEBERT",
+        "noofcopies":1,
+        "publisher":" MCGraw Hill Education",
+        "yearofPublish":2005,
+        "category":"COMPUTING"
+    },{
+        "name":"E-COMMERCE AN INDIAN PERSPECTIVE",
+        "author":"P.T. JOSHEP,S.J.",
+        "noofcopies":1,
+        "publisher":"ASOKE K. GHOSH",
+        "yearofPublish":2005,
+        "edition":"SECOND EDITION",
+        "category":"COMPUTING"
+    },{
+        "name":"PERVASIVE COMPUTING",
+        "author":"THOMAS STOBER , UWE HANSMANN , LOATHER MERK, MARTIN S. NICKLOUS    ",
+        "noofcopies":1,
+        "publisher":"SPRING INDIA PVT LIMITED",
+        "yearofPublish":2001,
+        "edition":"SECOND EDITION",
+        "category":"COMPUTING"
+    },{
+        "name":"PERVASIVE COMPUTING TECHNOLOGY AND APPLICATIONS OF MOBILE INTERNET APPLICATIONS ",
+        "author":"JOCHEN BURKHAR DT , HORST HENN , STEFAN HEPPER, KLAUS RINDTOFF , THOMAS  SCHAECK",
+        "noofcopies":1,
+        "publisher":"PEARSON EDUCATION",
+        "yearofPublish":2006,
+        "category":"COMPUTING"
+    },{
+        "name":"CREATING ANDROID APPLICATIONS DEVELOP AND DESIGN",
+        "author":"CHRIS HASEMANN",
+        "noofcopies":1,
+        "publisher":"PEARSON EDUCATION",
+        "yearofPublish":2012,
+        "category":"SOFTWARE ENGINEERING"
+    },{
+        "name":"METRO ETHERNERT ",
+        "author":"SAM HALABI",
+        "noofcopies":1,
+        "publisher":"CISCO PRESS",
+        "yearofPublish":2011,
+        "category":"COMPUTER NETWORKS"
+    },{
+        "name":"SUPPLY CHAIN MANAGEMENT STRATEGY , PLANNING , AND OPERATIONS",
+        "author":"SUNIL CHOPRA , PETER MEINDL",
+        "noofcopies":1,
+        "publisher":"ASOKE K. GHOSH",
+        "yearofPublish":2007,
+        "edition":"Third Edition ",
+        "category":"PROGRAMMING & GENERAL"
+    },{
+        "name":"MANAGING THE SOFTWARE PROCESS",
+        "author":"WATTS S. HUMPHREY",
+        "noofcopies":1,
+        "publisher":"PEARSON EDUCATION",
+        "yearofPublish":2006,
+        "category":"SOFTWARE ENGINEERING"
+    },{
+        "name":"PRINCIPLES OF MANAGEMENTS",
+        "author":"VILAS S. BAGAD",
+        "noofcopies":1,
+        "publisher":"TECHNICHAL PUBLICATIONS",
+        "yearofPublish":2006,
+        "category":"SOFTWARE ENGINEERING"
+    },{
+        "name":"PRINCIPLES OF MANAGEMENTS",
+        "author":"VILAS S. BAGAD ",
+        "noofcopies":1,
+        "publisher":"TECHNICHAL PUBLICATIONS",
+        "yearofPublish":2003,
+        "category":"SOFTWARE ENGINEERING"
+    },{
+        "name":"PRINCIPLES OF SOFT COMPUTING",
+        "author":"S.N. SIVANANDAM, S.N. DEEPA",
+        "noofcopies":1,
+        "publisher":"JOHN WILey AND SONS",
+        "yearofPublish":2008,
+        "edition":"SECOND EDITION",
+        "category":"COMPUTING"
+    },{
+        "name":"PETASCALE COMPUTING ALGORITHMS AND APPLICATIONS",
+        "author":"DAVID A. BADER",
+        "noofcopies":1,
+        "publisher":"CHAPMAN AND HALL",
+        "yearofPublish":2008,
+        "category":"COMPUTING"
+    },{
+        "name":"MOBILE COMPUTING",
+        "author":"V. JAYASRI AROKIAMARY",
+        "noofcopies":1,
+        "publisher":"TECHNICHAL PUBLICATIONS",
+        "yearofPublish":2007,
+        "edition":"First Edition",
+        "category":"COMPUTING"
+    },{
+        "name":"THE UNIVERSAL MACHINE A MULTI MEDIA INTRODUCTION TO COMPUTING",
+        "author":"GLENN BLANK , ROBERT BARNES",
+        "noofcopies":1,
+        "publisher":" MCGraw Hill Education",
+        "yearofPublish":1998,
+        "category":"COMPUTING"
+    },
+    {
+        "name":"FUNDAMENTALS OF COMPUTING 1",
+        "author":"ALLEN B. TUCKER",
+        "noofcopies":1,
+        "publisher":"Tata MCGraw Hill Education",
+        "yearofPublish":1998,
+        "category":"COMPUTING"
+    },{
+        "name":"MOBILE COMMUNICATIONS ",
+        "author":"JOCHEN H. SCHILLER",
+        "noofcopies":1,
+        "publisher":"PEARSON EDUCATION",
+        "yearofPublish":2000,
+        "category":"COMPUTING"
+    },{
+        "name":"AD HOC NETWORKS AND TECHNOLOGIES AND PROTOCOLS",
+        "author":"PRASANT MOHAPATRA ,SRIKANTH V.KRISHNAMOORTHY",
+        "noofcopies":1,
+        "publisher":"SPRING INDIA PVT LIMITED",
+        "yearofPublish":2005,
+        "category":"COMPUTER NETWORKS"
+    },{
+        "name":"BROADBAND COMMUNICATIONS",
+        "author":"BALAJI KUMAR",
+        "noofcopies":1,
+        "publisher":"MC GRAW HILL EDUCATION",
+        "yearofPublish":1995,
+        "category":"COMPUTER NETWORKS"
+    },{
+        "name":"MC GRAW HILL INTERNET WORKING HAND BOOK",
+        "author":"ED TAYLOR",
+        "noofcopies":1,
+        "publisher":"MC GRAW HILL EDUCATION",
+        "yearofPublish":1995,
+        "category":"PROGRAMMING & GENERAL"
+    },{
+        "name":"DATA AND COMPUTER COMMUNICATIONS",
+        "author":"WILLIAM STALLINGS",
+        "noofcopies":1,
+        "publisher":"ASOKE K.JHOSH",
+        "yearofPublish":1999,
+        "edition":"5TH EDITION",
+        "category":"COMPUTER NETWORKS"
+    },
+    {
+        "name":"COMPUTER NETWORKS",
+        "author":"ANDREW.S TANENVAUM",
+        "noofcopies":1,
+        "publisher":"PRENTICE-HALL OF INDIA PVT LIMITED",
+        "yearofPublish":1990,
+        "edition":"SECOND EDITION",
+        "category":"COMPUTER NETWORKS"
+    },
+    
+    {
+        "name":"INTERNET WORKING WITH TCP/IP PRINCIPLES PROTOVOLS AND ARCHITECTURE",
+        "author":"DOUGLAS E.COMER",
+        "noofcopies":1,
+        "publisher":"ASOKE K.GHOSH",
+        "yearofPublish":2006,
+        "edition":"FIFTH EDITION",
+        "category":"COMPUTER NETWORKS"
+    },
+    
+    {
+        "name":"PRINCIPLES OF COMMUNICATION",
+        "author":"J.S.CHITODE",
+        "noofcopies":1,
+        "publisher":"TECHINICAL PUBLICATIONS",
+        "yearofPublish":2006,
+        "category":"COMPUTER NETWORKS"
+    },
+    
+    {
+        "name":"NETWORK PROGRAMMING AND MANAGEMENT",
+        "author":"VILAS S. BAGAD ,IRESH A.DHOTRE",
+        "noofcopies":1,
+        "publisher":"TECHINICAL PUBLICATIONS",
+        "yearofPublish":2011,
+        "category":"COMPUTER NETWORKS"
+    },
+    
+    {
+        "name":"PRINCIPLES OF NETWORK AND SYSTEM ADMINISTRATION",
+        "author":"MARKGURGESS,",
+        "noofcopies":1,
+        "publisher":"JOHN WILLIAMSOM",
+        "yearofPublish":2000,
+        "category":"COMPUTER NETWORKS"
+    },
+    
+    {
+        "name":"INTERNET WORKING WITH TCP/IP PRINCIPLES PROTOVOLS AND ARCHITECTURE",
+        "author":"DOUGLAS E.COMER",
+        "noofcopies":1,
+        "publisher":"ASOKE K.GHOSH",
+        "yearofPublish":1995,
+        "edition":"4TH EDITION",
+        "category":"COMPUTER NETWORKS"
+    },
+    
+    {
+        "name":"CISCO SYSTEMS NETWORKING ACADEMY",
+        "author":"VITOAMATO ",
+        "noofcopies":1,
+        "publisher":"CISCO PRESS ",
+        "yearofPublish":1999,
+        "category":"COMPUTER NETWORKS"
+    },
+    
+    {
+        "name":"CRYPOGRAPHY AND NETWORK SECURITY PRINCIPLES AND PRACTICE",
+        "author":"WILLIAM STALLINGS",
+        "noofcopies":1,
+        "publisher":"PEARSON EDUCATION",
+        "yearofPublish":2016,
+        "edition":"6TH EDITION",
+        "category":"COMPUTER NETWORKS"
+    },
+    
+    {
+        "name":"NTS",
+        "author":"VILAS VAGAD,IRESH DHOTRE",
+        "noofcopies":1,
+        "publisher":"TECHINICAL PUBLICATIONS",
+        "yearofPublish":2003,
+        "category":"COMPUTER NETWORKS"
+    },
+    
+    {
+        "name":"CRYPOGRAPHY AND NETWORK SECURITY PRINCIPLES AND PRACTICE",
+        "author":"ATUL KIHAPE",
+        "noofcopies":1,
+        "publisher":"MC GRAW HILL EDUCATION",
+        "yearofPublish":2019,
+        "edition":"4TH EDITION",
+        "category":"COMPUTER NETWORKS"
+    }
+    
+]
+    
